@@ -53,7 +53,7 @@ header {
 }
 
 .header-container img {
-    height: 100px;
+    height: 70px;
     width: 200px;
     transition: transform 0.3s ease;
 }
