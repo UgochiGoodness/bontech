@@ -18,7 +18,7 @@ body {
     font-family: 'Roboto', sans-serif;
     line-height: 1.6;
     color: var(--brown);
-    background: linear-gradient(to right, rgb(253, 153, 71), rgb(242, 200, 166),  rgb(253, 153, 71));
+    background: linear-gradient(to right, rgb(253, 153, 71), rgb(251, 188, 140),  rgb(253, 153, 71));
 }
 
 h1, h2, h3, h4 {
@@ -216,7 +216,7 @@ header {
     text-align: center;
     transition: all 0.3s ease;
     box-shadow: var(--shadow);
-    border-top: 4px solid var(--burnt-orange);
+    border-top: 4px solid var(--brown);
 }
 
 .service-card:hover {
@@ -246,7 +246,7 @@ header {
 /* About Section */
 .about {
     padding: 4rem 0;
-    background: linear-gradient(to right, rgb(253, 153, 71), rgb(242, 200, 166),  rgb(253, 153, 71));
+    background: linear-gradient(to right, rgb(253, 153, 71), rgb(251, 188, 140),  rgb(253, 153, 71));
 }
 
 .about-content {
@@ -313,7 +313,7 @@ header {
     border-radius: 15px;
     padding: 2rem;
     box-shadow: var(--shadow);
-    border-left: 4px solid var(--burnt-orange);
+    border-left: 4px solid var(--brown);
     transition: transform 0.3s ease;
 }
 
@@ -329,7 +329,7 @@ header {
 
 .testimonial-text::before {
     content: '"';
-    font-size: 3rem;
+    font-size: 2rem;
     color: var(--light-beige);
     position: absolute;
     top: -15px;
